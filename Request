@@ -1,0 +1,8 @@
+{
+  "text": "I can definitely understand how frustrating it is for your internet to not be working as it should be, as I work from home this is something I can relate to as well. I would be happy to assist with your internet issues today. May I have the account holder's name the phone number and full service address including city, state, zip? the name of the person I am speaking with currently and the account PIN or Security code if applicable?",
+  "sender": {
+    "role": "agent",
+    "externalId": "123446"
+  },
+  "timestamp": "{{$isoTimestamp}}"
+}
